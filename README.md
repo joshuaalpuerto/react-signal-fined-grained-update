@@ -1,4 +1,8 @@
-# Vite + React
+# Signals demo
+
+- Uses Vite + React,
+- Jotai - Atom state management (Recoil like state management)
+- Jotai signal - Signal-like implementation
 
 This is a [Vite](https://vitejs.dev) project together with React.
 
